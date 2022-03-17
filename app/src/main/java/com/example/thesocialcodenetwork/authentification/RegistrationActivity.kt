@@ -1,4 +1,6 @@
 package com.example.thesocialcodenetwork.authentification
 
-class RegistrationActivity {
+import androidx.appcompat.app.AppCompatActivity
+
+class RegistrationActivity : AppCompatActivity() {
 }

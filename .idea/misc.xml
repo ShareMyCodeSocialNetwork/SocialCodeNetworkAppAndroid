@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_login.xml" value="0.3761904761904762" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_messages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_register.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_news.xml" value="0.1" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/friend_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/group_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/message_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/post_item.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/splash_screen.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/menu/bottom_navigation_view_tabs.xml" value="0.25416666666666665" />
       </map>

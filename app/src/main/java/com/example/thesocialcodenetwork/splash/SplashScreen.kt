@@ -8,6 +8,7 @@ import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
 import com.example.thesocialcodenetwork.MainActivity
 import com.example.thesocialcodenetwork.R
+import com.example.thesocialcodenetwork.authentification.LoginActivity
 
 @SuppressLint("CustomSplashScreen")
 
@@ -18,7 +19,7 @@ class SplashScreen : AppCompatActivity() {
         with(R.id.splash_animation) { }
 
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }, 4000)
