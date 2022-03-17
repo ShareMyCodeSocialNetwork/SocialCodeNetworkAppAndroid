@@ -15,4 +15,6 @@
     <string name="cr_er_mon_compte">créer mon compte</string>
     <string name="firstName">Nom</string>
     <string name="lastName">Prénom</string>
+    <string name="look_for_user">recherchez un utilisateur</string>
+    <string name="no_available_data">aucun utilisateur trouvé</string>
 </resources>

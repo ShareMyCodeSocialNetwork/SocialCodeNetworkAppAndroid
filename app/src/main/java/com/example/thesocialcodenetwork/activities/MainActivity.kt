@@ -1,9 +1,10 @@
-package com.example.thesocialcodenetwork
+package com.example.thesocialcodenetwork.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.thesocialcodenetwork.R
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {

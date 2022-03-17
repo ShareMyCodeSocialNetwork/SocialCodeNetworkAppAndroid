@@ -18,9 +18,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".authentification.LoginActivity"/>
-        <activity android:name=".authentification.RegistrationActivity"/>
-        <activity android:name=".MainActivity"/>
+        <activity android:name="com.example.thesocialcodenetwork.activities.authentification.LoginActivity"/>
+        <activity android:name="com.example.thesocialcodenetwork.activities.authentification.RegistrationActivity"/>
+        <activity android:name="com.example.thesocialcodenetwork.activities.MainActivity"/>
+        <activity android:name="com.example.thesocialcodenetwork.activities.MessagingActivity"/>
 
     </application>
 

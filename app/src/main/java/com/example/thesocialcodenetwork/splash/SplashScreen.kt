@@ -6,9 +6,8 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
-import com.example.thesocialcodenetwork.MainActivity
 import com.example.thesocialcodenetwork.R
-import com.example.thesocialcodenetwork.authentification.LoginActivity
+import com.example.thesocialcodenetwork.activities.authentification.LoginActivity
 
 @SuppressLint("CustomSplashScreen")
 
