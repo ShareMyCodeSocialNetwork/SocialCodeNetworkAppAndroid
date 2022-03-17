@@ -1,13 +1,18 @@
 <resources>
     <string name="app_name">TheSocialCodeNetwork</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="vous_n_avez_pas_un_compte">Vous n\'avez pas un compte ?</string>
     <string name="e_mail">e-mail</string>
-    <string name="mot_de_passe">mot_de_passe</string>
+    <string name="mot_de_passe">mot de passe</string>
     <string name="connexion">Connexion</string>
     <string name="vous_n_avez_pas_de_compte">Vous n\'avez pas de compte ?</string>
     <string name="inscrivez_vous">Inscrivez-vous</string>
     <string name="email">email</string>
     <string name="mot_de_passe_oublie">"Mot de passe oublié ?"</string>
+    <string name="password">mot de passe</string>
+    <string name="username">nom</string>
+    <string name="cr_er_mon_compte">créer mon compte</string>
+    <string name="firstName">Nom</string>
+    <string name="lastName">Prénom</string>
 </resources>
