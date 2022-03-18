@@ -7,6 +7,7 @@ plugins {
 android {
     compileSdk 31
 
+    //adding lint Options
     lintOptions {
         abortOnError false
     }
@@ -27,6 +28,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    //java version SDK 11
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
