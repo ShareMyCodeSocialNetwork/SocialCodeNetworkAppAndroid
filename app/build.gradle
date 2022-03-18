@@ -52,6 +52,10 @@ dependencies {
     api "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0"
     api "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0"
 
+    implementation "com.google.android.material:material:1.5.0"
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    implementation 'com.google.android.material:material:1.5.0'
+
 
     // implementation for http request
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'

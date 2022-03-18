@@ -17,4 +17,6 @@
     <string name="lastName">Prénom</string>
     <string name="look_for_user">recherchez un utilisateur</string>
     <string name="no_available_data">aucun utilisateur trouvé</string>
+    <string name="groups">groupes</string>
+    <string name="friends">amis</string>
 </resources>

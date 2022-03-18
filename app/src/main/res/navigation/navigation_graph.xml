@@ -9,7 +9,11 @@
         android:id="@+id/newsFragment"
         android:name="com.example.thesocialcodenetwork.fragments.NewsFragment"
         android:label="fragment_news"
-        tools:layout="@layout/fragment_news" />
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_messagesFragment"
+            app:destination="@id/messagesFragment" />
+    </fragment>
     <fragment
         android:id="@+id/searchFragment2"
         android:name="com.example.thesocialcodenetwork.fragments.SearchFragment"
@@ -20,4 +24,9 @@
         android:name="com.example.thesocialcodenetwork.fragments.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/messagesFragment"
+        android:name="com.example.thesocialcodenetwork.fragments.MessagesFragment"
+        android:label="fragment_messages"
+        tools:layout="@layout/fragment_messages" />
 </navigation>

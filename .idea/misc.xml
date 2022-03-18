@@ -4,17 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/ic_cancel.xml" value="0.1355" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/ic_comment.xml" value="0.1355" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/ic_email.xml" value="0.2595" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/ic_new_messages.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/ic_search.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/item.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/left_arrow.xml" value="0.1355" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/right_arrow.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/roll_back.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/drawable/user_placeholder.xml" value="0.1355" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_login.xml" value="0.3761904761904762" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_messages.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_messaging.xml" value="0.264" />
-        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_register.xml" value="0.6" />
-        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_news.xml" value="0.1" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_messages.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_news.xml" value="0.264" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/fragment_search.xml" value="0.7547791694133158" />
         <entry key="..\:/Users/33749/AndroidStudioProjects/TheSocialCodeNetwork/app/src/main/res/layout/friend_item.xml" value="0.25416666666666665" />
