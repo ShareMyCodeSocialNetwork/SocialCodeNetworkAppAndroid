@@ -9,7 +9,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheSocialCodeNetwork">
 
-        <activity android:name=".splash.SplashScreen"
+        <activity
+            android:name=".splash.SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,12 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.example.thesocialcodenetwork.activities.authentification.LoginActivity"/>
-        <activity android:name="com.example.thesocialcodenetwork.activities.authentification.RegistrationActivity"/>
-        <activity android:name="com.example.thesocialcodenetwork.activities.MainActivity"/>
-        <activity android:name="com.example.thesocialcodenetwork.activities.MessagingActivity"/>
-
+        <activity android:name=".activities.authentification.LoginActivity" />
+        <activity android:name=".activities.authentification.RegistrationActivity" />
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.MessagingActivity" />
+        <activity android:name=".activities.userActivities.CreateNewGroup"/>
+        <activity android:name=".activities.userActivities.UpdateProfile"/>
     </application>
 
 </manifest>

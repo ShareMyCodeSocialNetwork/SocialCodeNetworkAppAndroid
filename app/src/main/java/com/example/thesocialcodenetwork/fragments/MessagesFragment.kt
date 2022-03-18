@@ -5,11 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.findNavController
 import com.example.thesocialcodenetwork.R
 import com.example.thesocialcodenetwork.adapters.TabLayoutViewPagerAdapter
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
 import kotlinx.android.synthetic.main.fragment_messages.*
+import kotlinx.android.synthetic.main.fragment_news.*
 
 class MessagesFragment : Fragment() {
 
@@ -32,6 +34,13 @@ class MessagesFragment : Fragment() {
                 tab.text = getString(R.string.groups)
             }
         }.attach()
+
+        roll_back_button.setOnClickListener() {
+
+            view.findNavController().navigate(
+                R.id.action_messagesFragment_to_newsFragment
+            )
+        }
     }
 
 }

@@ -5,7 +5,6 @@
     android:layout_height="wrap_content"
     android:clickable="false">
 
-
     <EditText
         android:id="@+id/search_text"
         android:layout_width="match_parent"
@@ -30,9 +29,7 @@
         app:layout_constraintLeft_toLeftOf="@+id/search_text"
         app:layout_constraintTop_toTopOf="@+id/search_text"
         app:layout_constraintBottom_toBottomOf="@+id/search_text"
-        android:layout_marginStart="10dp"
-
-        />
+        android:layout_marginStart="10dp" />
 
     <ImageView
         android:id="@+id/clear_button"
@@ -42,9 +39,7 @@
         android:src="@drawable/ic_cancel"
         app:layout_constraintBottom_toBottomOf="@+id/search_text"
         app:layout_constraintRight_toRightOf="@+id/search_text"
-        app:layout_constraintTop_toTopOf="@+id/search_text"
-
-        tools:ignore="SpeakableTextPresentCheck" />
+        app:layout_constraintTop_toTopOf="@+id/search_text" />
 
     <TextView
         android:id="@+id/artists_txt"
